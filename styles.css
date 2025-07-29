@@ -1,0 +1,14 @@
+/* bussinga! */
+mid {
+  direction: column;
+  align-items: center;
+}
+.mid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+img {
+  max-width: 50dvw;
+}
