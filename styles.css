@@ -1,4 +1,7 @@
 /* bussinga! */
+body {
+  align-items: center;
+}
 mid {
   direction: column;
   align-items: center;
